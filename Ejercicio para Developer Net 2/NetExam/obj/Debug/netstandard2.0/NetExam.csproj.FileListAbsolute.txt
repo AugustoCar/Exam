@@ -7,3 +7,12 @@ C:\Users\augus\Desktop\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\net
 C:\Users\augus\Desktop\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
 C:\Users\augus\Desktop\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.dll
 C:\Users\augus\Desktop\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csprojAssemblyReference.cache
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+C:\GitHub\Exam\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
