@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8Y6qfwTQU4AtEFYOsATyI058xr7rx2TIq/oXhcbo5ZchW4GUV9ahiI9taQAflO3Kj6VYiKmFFVjoGPk1T3KWw==",
+  "dgSpecHash": "Mn5EtCQyF0tmIJqbnxWvMqNDJUlgk+pNhthhrUOTxdvcm8rFfNtuU4JmZyWWzNvLBCbjotMcRs7SSKEiiFkk2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\augus\\Desktop\\Exam\\Ejercicio para Developer Net 2\\NetExam.Test\\NetExam.Test.csproj",
+  "projectFilePath": "C:\\Users\\augus\\Documents\\GitHub\\Exam\\Ejercicio para Developer Net 2\\NetExam.Test\\NetExam.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

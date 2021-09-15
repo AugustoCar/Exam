@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2IJYbO6khQzFhwx5dSnkjFxvQVW8RYusYOfVy+7WChkP/34uBmcXwHfMghi4ByZBVDSyORpRaD3nTP4gz6F/A==",
+  "dgSpecHash": "6qaOOYhY/r5eG7RhrGF14LmeNi0U5nyN2U/EfCzu+674HBJVBdXU7oc09woH9ckqn/0SYyD10AioU9bSMEdk1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\augus\\Desktop\\Exam\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj",
+  "projectFilePath": "C:\\Users\\augus\\Documents\\GitHub\\Exam\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
